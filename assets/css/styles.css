@@ -1,0 +1,39 @@
+/* Estilos generales */
+*{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #FFFFFF;
+}
+
+body{
+    background-color: #000000;
+}
+
+/* Header */
+.navbar{
+    background-color: #ffffff00;
+}
+
+
+/* Seccion quienes somos */
+.card{
+    border: 0px;
+    background-color: #00000000;
+}
+
+.info-icon{
+    background-color: aqua;
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.info-icon i{
+    color: #000000;
+}
+
+.card-body{
+    padding: 0px auto;
+}
